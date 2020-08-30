@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://shubhamsweb.in/](http://shubhamsweb.in/)
 
-- 💬 Ask me about **ReactJs, Webpack, CSS, Js**
+- 💬 Ask me about **ReactJs, Webpack, CSS, Java Script**
 
 - 📫 How to reach me **shubhama664@gmail.com**
 
