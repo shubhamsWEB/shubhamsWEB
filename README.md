@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Shubham Agrawal</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h1 align="left">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
+<h1 align="left">I'm Shubham Agrawal</h1>
+<h3 align="left">React, Node, and AngularJs Developer</h3>
 
-- 🔭 I’m currently working on [React Enterprise Starter Kit](https://github.com/anandgupta193/react-enterprise-starter-kit)
+- 🔭 I’m currently working as an Software Engineer [@GeekyAnts](https://github.com/GeekyAnts)
 
 - 🌱 I’m currently learning **Web Performance**
 
