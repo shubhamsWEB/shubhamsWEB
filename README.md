@@ -1,6 +1,6 @@
 <h1 align="left">Hi there <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> </h1>
 <h1 align="left">I'm Shubham Agrawal</h1>
-<h3 align="left">React, Node, and AngularJs Developer</h3>
+<h3 align="left">Open Source Contributor and React, Node, AngularJs Developer</h3>
 
 - 🔭 I’m currently working as an Software Engineer [@GeekyAnts](https://github.com/GeekyAnts)
 
