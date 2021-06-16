@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Web Performance**
 
-- 👨‍💻 All of my projects are available at [https://shubhamsweb.netlify.app/](https://shubhamsweb.netlify.app/)
+- 👨‍💻 All of my projects are available [here ©](https://shubhamsweb.netlify.app/)
 
 - 💬 Ask me about **ReactJs, Webpack, CSS, Java Script**
 
