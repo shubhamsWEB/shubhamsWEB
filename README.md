@@ -2,7 +2,7 @@
 <h1 align="left">I'm Shubham Agrawal</h1>
 <h3 align="left">Open Source Contributor, React, Node and AngularJs Developer</h3>
 
-- 🔭 I’m currently working as an Software Engineer [@GeekyAnts](https://github.com/GeekyAnts)
+- 🔭 I’m currently working as an Software Engineer [@Shaai.com](https://github.com/shaaditech)
 
 - 🌱 I’m currently learning **Web Performance**
 
