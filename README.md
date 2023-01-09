@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working as an Software Engineer [@Shaadi.com](https://github.com/shaaditech)
 
-- 🌱 I’m currently learning **Web Performance**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 All of my projects are available [here ©](https://shubhamsweb.netlify.app/)
 
-- 💬 Ask me about **ReactJs, Webpack, CSS, Java Script**
+- 💬 Ask me about **ReactJs, Webpack, CSS, Java Script, Web Optimization, NextJs**
 
 - 📫 How to reach me **shubhama664@gmail.com**
 
